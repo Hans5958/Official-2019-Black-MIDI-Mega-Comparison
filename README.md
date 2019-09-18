@@ -5,7 +5,7 @@ Home of the official 2019 Black MIDI mega comparison. Please check this doc for 
 
 ---
 ## 2019 Mega Comparison
-***What***: 1 comparison vid spanning 6 MIDIs: 9KX2, Tau, Tartarus, Septette 14.9, Reptilian Dark Ritual, TFL 19.4 <br>
+***What***: 1 comparison vid spanning 6 MIDIs: 9KX2, Tau, Tartarus, RST 14.6, Reptilian Dark Ritual, TFL 19.4 <br>
 ***Deadline***: None yet, but pls submit ASAP <br>
 ***Contact***: Submissions **AND** questions -> Kanna#1555 OR newersupermariobros7@gmail.com <br>
 ***Resubmissions***: No <br>
@@ -37,7 +37,7 @@ Meet any **ONE** of the crash pt cut times below for a particular MIDI, qualify 
 [9KX2](https://www.youtube.com/watch?v=E7e36Yc3e3w): 2:18.3 OR 3:45.4 OR 5:49.2 <br>
 [Tau](https://www.youtube.com/watch?v=b0gyQMJHQ78): 3:15.7 OR 5:42.3 <br>
 [Tartarus](https://www.youtube.com/watch?v=u3QCN1qqfIo): 2:07.8 OR 3:24.0 <br>
-[Septette 14.9](https://www.youtube.com/watch?v=JAtk3wOlB2Y): 3:07.1 OR 4:33.2 <br>
+[RST 14.6](https://www.youtube.com/watch?v=JAtk3wOlB2Y): 3:07.1 OR 4:33.2 <br>
 [Reptilian Dark Ritual](https://www.youtube.com/watch?v=IBb4NPR_scM): 4:24.6* <br>
 [TFL 19.4](https://www.youtube.com/watch?v=XmtiTkXcPJU): 3:13.7 OR 3:53.6 <br>
 
