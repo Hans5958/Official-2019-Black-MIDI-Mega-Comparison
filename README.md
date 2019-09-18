@@ -1,6 +1,8 @@
 # Official 2019 Black MIDI Mega Comparison
 Home of the official 2019 Black MIDI mega comparison. Please check this doc for updates every few days ***AND*** before you do your runs. Revisions may occur without prior notice. Major changes will be announced in the Discord servers.
 
+**Currently 90 runs and counting! Participate today!**
+
 ---
 ## 2019 Mega Comparison
 ***What***: 1 comparison vid spanning 6 MIDIs: 9KX2, Tau, Tartarus, Septette 14.9, Reptilian Dark Ritual, TFL 19.4 <br>
