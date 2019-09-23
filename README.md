@@ -57,7 +57,7 @@ Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using 
 - 1 run per MIDI per CPU (Means you could submit 12 runs if you have 2 CPUs that are listed in Provision 1!)
 
 **Suggested**
-- 720p+ resolution
+- 720p+ resolution, 60 FPS
 - 0.05 note speed (0.025 for Tartarus)
 - Use LoudMax
 - Use black background in PFA
