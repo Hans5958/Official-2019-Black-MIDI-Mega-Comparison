@@ -1,7 +1,9 @@
 # Official 2019 Black MIDI Mega Comparison
 Home of the official 2019 Black MIDI mega comparison. Please check this doc for updates every few days ***AND*** before you do your runs. Revisions may occur without prior notice. Major changes will be announced in the Discord servers.
 
-**Currently *99* runs and counting! Participate today!**
+**Currently *104* runs and counting! Participate today!** 
+
+*The times in the repo are standardized to conform to 60fps timecode. Additional edits have been made to them. They will not match PFA's counter.*
 
 ---
 ## 2019 Mega Comparison
