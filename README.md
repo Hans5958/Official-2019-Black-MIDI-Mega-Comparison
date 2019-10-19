@@ -54,6 +54,7 @@ Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using 
 
 **Required**
 - UNEDITED REAL-TIME FULL SCREEN RECORDINGS using [ORIGINAL PFA V1.1.0](http://kaleidonkep99.altervista.org/pfamirror/index.html) showing all 128 keys in PFA w/ audio. No camera recordings.
+- If you cannot record audio and/or must use a camera, you MUST talk to me and get permission to do so first.
 - 1 run per MIDI per CPU (Means you could submit 12 runs if you have 2 CPUs that are listed in Provision 1!)
 
 **Suggested**
