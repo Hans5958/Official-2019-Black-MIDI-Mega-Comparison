@@ -8,9 +8,9 @@ Home of the official 2019 Black MIDI mega comparison. Please check this doc for 
 ---
 ## 2019 Mega Comparison
 ***What***: 1 comparison vid spanning 6 MIDIs: 9KX2, Tau, Tartarus, RST 14.6, Reptilian Dark Ritual, TFL 19.4 <br>
-***Deadline***: None yet, but pls submit ASAP <br>
+***Deadline***: 10/12/19 7:00 AM PDT <br>
 ***Contact***: Submissions **AND** questions -> Kanna#1555 OR newersupermariobros7@gmail.com <br>
-***Resubmissions***: No <br>
+***Resubmissions & Late Submissions***: No <br>
 ***Preferred Submission Method***: YouTube <br>
 
 ---
@@ -55,11 +55,12 @@ Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using 
 ## Rules
 
 **Required**
-- UNEDITED REAL-TIME FULL SCREEN RECORDINGS using [ORIGINAL PFA V1.1.0](http://kaleidonkep99.altervista.org/pfamirror/index.html) showing all 128 keys in PFA w/ audio. No camera recordings.
-- If you cannot record audio and/or must use a camera, you MUST talk to me and get permission to do so first.
+- UNEDITED REAL-TIME FULL SCREEN RECORDINGS using [ORIGINAL PFA V1.1.0](http://kaleidonkep99.altervista.org/pfamirror/index.html) showing all 128 keys in PFA.
 - 1 run per MIDI per CPU (Means you could submit 12 runs if you have 2 CPUs that are listed in Provision 1!)
 
 **Suggested**
+- Use a screen recorder & record audio
+- Enable PFA's FPS counter
 - 720p+ resolution, 60 FPS
 - 0.05 note speed (0.025 for Tartarus)
 - Use LoudMax
