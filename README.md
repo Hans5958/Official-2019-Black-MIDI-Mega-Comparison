@@ -31,7 +31,7 @@ Have 8+GB RAM (12+ for Reptilian Dark Ritual) **AND** one of the following CPUs 
 - i9-7900X/7920X/7940X/7960X/7980XE/9900X/9920X/9940X/9960X/9980XE
 - i5-6400/6500/6600 AND i7-6700 (if @ all-core OC of 4+ GHz w/ modded BIOS)
 
-*If you have a 6000-series or newer 4+ core Intel unlocked (K/KS/X/XE) desktop CPU not on this list, feel free to contact me*.
+*If you have a 6000-series or newer 4+ core Intel unlocked (K/KS/X/XE) desktop CPU not on this list, feel free to contact me.*
 
 ### Provision 2
 Meet any **ONE** of the crash pt cut times below for a particular MIDI, qualify for that MIDI (per MIDI qualification).
