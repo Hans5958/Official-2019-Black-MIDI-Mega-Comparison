@@ -7,12 +7,12 @@ Home of the official 2019 Black MIDI mega comparison. Please check this doc for 
 
 ---
 ## Slots Left
-- 9KX2: 9
-- Tau: 9
-- Tartarus: 4
-- RST: 8
+- 9KX2: 7
+- Tau: 7
+- Tartarus: 3
+- RST: 6
 - Reptilian Dark Ritual: 7
-- TFL: 7
+- TFL: 5
 
 ---
 ## 2019 Mega Comparison
