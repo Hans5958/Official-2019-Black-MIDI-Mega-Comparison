@@ -3,7 +3,7 @@ Home of the official 2019 Black MIDI mega comparison. Please check this doc for 
 
 ***140*** submissions and counting! Participate today!
 
-*The times in the repo are standardized to conform to 60fps timecode. Edits in addition to the standardization have also been made. They will **NOT** match PFA's counter.*
+*The times in the repo are standardized to conform to 60fps timecode. Edits in addition to the standardization have also been made. They will **NOT** match PFA's counter. Eligibility times are based on the times reported by PFA's counter.*
 
 ---
 ## Slots Left
