@@ -12,17 +12,17 @@ Good news! As I started working on the comparison, I decided to go for an x by x
 
 The rules will remain the same but now, anyone can submit a run with any CPU; there are no eligibility requirements. Do however be courteous; please don't submit a 15-minute Intel Atom run. The number of slots left are tracked below. This will fill up quickly so if you want to participate, I'd advise you to get it in within the next couple of days! In the Hitotose Café, first come is first served.
 
-IMPORTANT: If your run was previously ineligible, you MUST resubmit it. You are also subject to the first come first served rule.
+IMPORTANT: If your run was previously ineligible, you MUST resubmit it. You are also subject to the first come first served rule. Also, you must submit runs of ALL MIDIs if you'd like to be included in the composite analysis.
 
 **This submission period will close when all the slots have been filled or by the latest, 11/2 4:30 AM PDT.**
 
 ---
 ## Slots Left
 - 9KX2: 7
-- Tau: 7
-- Tartarus: 3
-- RST: 6
-- Reptilian Dark Ritual: 7
+- Tau: 6
+- Tartarus: 2
+- RST: 5
+- Reptilian Dark Ritual: 6
 - TFL: 5
 
 ---
