@@ -6,6 +6,17 @@ Home of the official 2019 Black MIDI mega comparison. Please check this doc for 
 *The times in the repo are standardized to conform to 60fps timecode. Edits in addition to the standardization have also been made. They will **NOT** match PFA's counter. Eligibility times are based on the times reported by PFA's counter.*
 
 ---
+## Announcement
+
+Good news! As I started working on the comparison, I decided to go for an x by x design. This means there are still spots!
+
+The rules will remain the same but now, anyone can submit a run with any CPU; there are no eligibility requirements. Do however be courteous; please don't submit a 15-minute Intel Atom run. The number of slots left are tracked below. This will fill up quickly so if you want to participate, I'd advise you to get it in within the next couple of days! In the Hitotose Café, first come is first served.
+
+IMPORTANT: If your run was previously ineligible, you MUST resubmit it. You are also subject to the first come first served rule.
+
+**This submission period will close when all the slots have been filled or by the latest, 11/2 4:30 AM PDT.**
+
+---
 ## Slots Left
 - 9KX2: 7
 - Tau: 7
