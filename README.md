@@ -8,7 +8,7 @@ Home of the official 2019 Black MIDI mega comparison. Please check this doc for 
 ---
 ## Announcement
 
-Good news! As I started working on the comparison, I decided to go for an x by x design. This means there are still spots!
+Good news! Everyone is eligible! As I started working on the comparison, I decided to go for an x by x design. This means there are still spots!
 
 The rules will remain the same but now, anyone can submit a run with any CPU; there are no eligibility requirements. Do however be courteous; please don't submit a 15-minute Intel Atom run. The number of slots left are tracked below. This will fill up quickly so if you want to participate, I'd advise you to get it in within the next couple of days! In the Hitotose Café, first come is first served.
 
