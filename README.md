@@ -1,7 +1,7 @@
 # Official 2019 Black MIDI Mega Comparison
 Home of the official 2019 Black MIDI mega comparison. Please check this doc for updates every few days ***AND*** before you do your runs. Revisions may occur without prior notice. Major changes will be announced in the Discord servers.
 
-***171*** submissions and counting! Participate today!
+***172*** submissions and counting! Participate today!
 
 *The times in the repo are standardized to conform to 60fps timecode. Edits in addition to the standardization have also been made. They will **NOT** match PFA's counter. Eligibility times are based on the times reported by PFA's counter.*
 
@@ -21,7 +21,7 @@ IMPORTANT: If your run was previously ineligible, you MUST resubmit it. You are 
 - Tau: 5
 - RST: 5
 - 9KX2: 7
-- TFL: 4
+- TFL: 3
 - Tartarus: 9
 - Reptilian Dark Ritual: 4
 
