@@ -18,12 +18,12 @@ IMPORTANT: If your run was previously ineligible, you MUST resubmit it. You are 
 
 ---
 ## Slots Left
-- Tau: 4
-- RST: 4
-- 9KX2: 6
-- TFL: 2
-- Tartarus: 8
-- Reptilian Dark Ritual: 3
+- Tau: 3
+- RST: 3
+- 9KX2: 5
+- TFL: 1
+- Tartarus: 7
+- Reptilian Dark Ritual: 2
 
 ---
 ## 2019 Mega Comparison
