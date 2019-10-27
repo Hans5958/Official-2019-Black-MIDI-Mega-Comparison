@@ -18,11 +18,11 @@ IMPORTANT: If your run was previously ineligible, you MUST resubmit it. You are 
 
 ---
 ## Slots Left
-- Tau: 2
-- RST: 2
-- 9KX2: 4
+- Tau: 0
+- RST: 1
+- 9KX2: 2
 - TFL: 0
-- Tartarus: 6
+- Tartarus: 4
 - Reptilian Dark Ritual: 1
 
 ---
