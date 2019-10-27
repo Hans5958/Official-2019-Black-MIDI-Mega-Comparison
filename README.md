@@ -5,6 +5,8 @@ Home of the official 2019 Black MIDI mega comparison. Please check this doc for 
 
 *The times in the repo are standardized to conform to 60fps timecode. Edits in addition to the standardization have also been made. They will **NOT** match PFA's counter. Eligibility times are based on the times reported by PFA's counter.*
 
+***You are responsible for checking to make sure that your runs have been entered into the MIDIs you have participated in.***
+
 ---
 ## Announcement
 
