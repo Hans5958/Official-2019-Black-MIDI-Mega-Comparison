@@ -25,7 +25,7 @@ IMPORTANT: If your run was previously ineligible, you MUST resubmit it. You are 
 - 9KX2: 2
 - TFL: 0
 - Tartarus: 4
-- Reptilian Dark Ritual: 1
+- Reptilian Dark Ritual: 0
 
 ---
 ## 2019 Mega Comparison
