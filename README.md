@@ -38,6 +38,7 @@ IMPORTANT: You must submit runs of ALL MIDIs if you'd like to be included in the
 Everyone is eligible! No provisions.
 
 <details><summary>Provisions, not required anymore.</summary>
+
 You **ONLY** need to meet Provision 1 **OR** 2.
 
 ### Provision 1
