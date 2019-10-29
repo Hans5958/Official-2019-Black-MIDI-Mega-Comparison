@@ -34,6 +34,10 @@ IMPORTANT: You must submit runs of ALL MIDIs if you'd like to be included in the
 
 ---
 ## Eligibility
+
+Everyone is eligible! No provisions.
+
+<details><summary>Provisions, not required anymore.</summary>
 You **ONLY** need to meet Provision 1 **OR** 2.
 
 ### Provision 1
@@ -69,6 +73,7 @@ Meet any **ONE** of the crash point cut times below for a particular MIDI to qua
 Example 1: Senko is a powerful fox demigoddess and has a Ryzen 9 3900X. Since it's on the list in Provision 1, any runs she does on her 3900X qualify.
 
 Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using Tosan magic). This isn't on the Provision 1 list so her 2500K doesn't qualify under Provision 1. We look to Provision 2. On her Tau run, her 2500K gets 3:12.1 and 5:45.9. Since it meets **ONE** of the times, that 2500K run qualifies (you only need to meet 1 time). This only means that her 2500K Tau run qualifies however. We'd need to see the times on her 9KX2 run to see if she qualifies for 9KX2.
+</details>
 
 ---
 ## Rules
