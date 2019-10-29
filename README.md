@@ -1,7 +1,7 @@
 # Official 2019 Black MIDI Mega Comparison
 Home of the official 2019 Black MIDI mega comparison. Revisions may occur without prior notice.
 
-***198*** submissions and counting! Participate today!
+***199*** submissions and counting! Participate today!
 
 ***You are responsible for checking to make sure that your runs have been entered into the MIDIs you've participated in because with so many runs, I sometimes make mistakes.***
 
@@ -21,7 +21,7 @@ IMPORTANT: You must submit runs of ALL MIDIs if you'd like to be included in the
 - RST: 1
 - 9KX2: 2
 - TFL: 0
-- Tartarus: 4
+- Tartarus: 3
 - RDR: 0
 
 ---
