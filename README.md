@@ -1,7 +1,7 @@
 # Official 2019 Black MIDI Mega Comparison
 Home of the official 2019 Black MIDI mega comparison. Revisions may occur without prior notice.
 
-***199*** submissions and counting! Participate today!
+***202*** submissions and counting! Participate today!
 
 ***You are responsible for checking to make sure that your runs have been entered into the MIDIs you've participated in because with so many runs, I sometimes make mistakes.***
 
