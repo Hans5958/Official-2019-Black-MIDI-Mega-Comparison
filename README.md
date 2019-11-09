@@ -19,7 +19,7 @@ IMPORTANT: You must submit runs of ALL MIDIs if you'd like to be included in the
 ### Slots Left
 - Tau: 0
 - RST: 0
-- 9KX2: 1
+- 9KX2: 0
 - TFL: 0
 - Tartarus: 2
 - RDR: 0
