@@ -1,28 +1,9 @@
 # Official 2019 Black MIDI Mega Comparison
 Home of the official 2019 Black MIDI mega comparison. Revisions may occur without prior notice.
 
-***202*** submissions and counting! Participate today!
+***205*** submissions and counting! Thanks for your participation; the video is coming soon! :)
 
 ***You are responsible for checking to make sure that your runs have been entered into the MIDIs you've participated in because with so many runs, I sometimes make mistakes.***
-
----
-## Announcement
-
-Good news! Everyone is eligible! As I started working on the comparison, I decided to go for an x by x design. This means there are still spots!
-
-The rules will remain the same but now, anyone can submit a run with any CPU; there are no eligibility requirements. The number of slots left are tracked below. This will fill up quickly so if you want to participate, I'd advise you to get it in within the next couple of days! First come, first served.
-
-IMPORTANT: You must submit runs of ALL MIDIs if you'd like to be included in the composite analysis.
-
-**This submission period will close when all the slots have been filled or on 11/2 4:30 AM PDT.**
-
-### Slots Left
-- Tau: 0
-- RST: 0
-- 9KX2: 0
-- TFL: 0
-- Tartarus: 2
-- RDR: 0
 
 ---
 ## 2019 Mega Comparison
