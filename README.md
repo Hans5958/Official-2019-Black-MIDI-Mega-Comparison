@@ -3,7 +3,7 @@ Home of the official 2019 Black MIDI mega comparison. Revisions may occur withou
 
 ***205*** submissions and counting! Thanks for your participation; the video is coming soon! :)
 
-***You are responsible for checking to make sure that your runs have been entered into the MIDIs you've participated in because with so many runs, I sometimes make mistakes.***
+***You are responsible for checking to make sure that your runs have been entered into the MIDIs you've participated in because with so many runs, I sometimes make mistakes (I'm still clumsy even though I'm a fox spirit.)***
 
 ---
 ## 2019 Mega Comparison
@@ -79,14 +79,14 @@ Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using 
 ### Terms
 
 By entering a submission into this comparison, you agree to the following:
-- You affirm you have all rights to the videos you submit
-- You allow MusiMasta to download your video for the purpose of usage in the comparison
-- You allow MusiMasta to render and upload a comparison video (which will be unmonetized*) to [MusiMasta's main YouTube channel](https://www.youtube.com/c/MusiMasta) which will include your video
-- You allow MusiMasta to include identification info (including but not limited to: name & computer specs) in the description of the video AND this Github repo
+- You affirm you have all rights to the videos you submit.
+- You allow MusiMasta to download your video for the purpose of usage in the comparison.
+- You allow the usage of your video, identification info, and benchmark results in the comparison video on YouTube (which will be unmonetized*), in the spreadsheet and graphs which will be publicly available in this Github repo, and in occasional teasers and surveys hosted on Discord, Twitter, Facebook, and other related platforms.
+- You allow MusiMasta to include identification info (including but not limited to: name & computer specs) in the video and its description AND this Github repo.
 
 You acknowledge that:
-- Runs may be rejected for any reason, but there will always be a follow-up reason
-- The status of this comparison (whether it occurs or not & how many MIDIs it ends up covering) will depend on the number of people who participate
+- Runs may be rejected for any reason, but there will always be a follow-up reason.
+- The status of this comparison (whether it occurs or not & how many MIDIs it ends up covering) will depend on the number of people who participate.
 
 Note: You may use any of the files in this fork in your own projects & videos FOR NONCOMMERICAL USES if you appropriately credit me in the description. Appropriate credit includes my name, "MusiMasta", and my [YouTube channel link](https://www.youtube.com/c/MusiMasta).
 
