@@ -25,9 +25,9 @@ You **ONLY** need to meet Provision 1 **OR** 2.
 ### Provision 1
 Have 8+ GB RAM (12+ for Reptilian Dark Ritual) **AND** one of the following CPUs at stock clocks OR overclock:
 - Ryzen 3 1200/1300X/2200G/2300X/3200G (includes PRO equivalents)
-- Ryzen 5 1400/1500X/1600/1600X/2400G/2500X/2600/2600X/3400G/3600/3600X (includes PRO equivalents)
+- Ryzen 5 1400/1500X/1600/1600X/2400G/2500X/2600/2600X/3400G/3500/3500X/3600/3600X (includes PRO equivalents)
 - Ryzen 7 1700/1700X/1800X/2700/2700X/3700X/3800X (includes PRO equivalents)
-- Ryzen 9 3900X/3950X
+- Ryzen 9 3900/3900X/3950X
 - Ryzen TR 1900X/1920X/1950X/2920X/2950X/2970WX/2990WX
 - i3-8350K/9350K/9350KF
 - i5-6600K/7600K/8600K/9600K/9600KF
@@ -81,7 +81,7 @@ Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using 
 By entering a submission into this comparison, you agree to the following:
 - You affirm you have all rights to the videos you submit.
 - You allow MusiMasta to download your video for the purpose of usage in the comparison.
-- You allow the usage of your video, identification info, and benchmark results in the comparison video on YouTube (which will be unmonetized*), in the spreadsheet and graphs which will be publicly available in this Github repo, and in occasional teasers and surveys hosted on Discord, Twitter, Facebook, and other related platforms.
+- You allow the usage of your video, identification info, and benchmark results in the comparison video on YouTube (which will be unmonetized*), in the spreadsheet and graphs which will be publicly available in this Github repo, and in occasional previews and surveys hosted on Discord, Twitter, Facebook, and other related platforms.
 - You allow MusiMasta to include identification info (including but not limited to: name & computer specs) in the video and its description AND this Github repo.
 
 You acknowledge that:
