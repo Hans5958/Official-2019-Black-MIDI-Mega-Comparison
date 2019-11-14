@@ -5,7 +5,7 @@ Home of the official 2019 Black MIDI mega comparison. Revisions may occur withou
 
 ***You are responsible for checking to make sure that your runs have been entered into the MIDIs you've participated in because with so many runs, I sometimes make mistakes (I'm still clumsy even though I'm a fox spirit.)***
 
-Preview 1: https://www.youtube.com/watch?v=kEXCB0ljPnw
+Preview 1: The Title Card - https://www.youtube.com/watch?v=kEXCB0ljPnw
 
 ---
 ## 2019 Mega Comparison
