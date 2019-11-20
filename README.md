@@ -5,7 +5,17 @@ Home of the official 2019 Black MIDI mega comparison. Revisions may occur withou
 
 ***You are responsible for checking to make sure that your runs have been entered into the MIDIs you've participated in because with so many runs, I sometimes make mistakes (I'm still clumsy even though I'm a fox spirit.)***
 
-Preview 1: The Title Card - https://www.youtube.com/watch?v=kEXCB0ljPnw
+### Previews
+
+Preview 1: The Title Card - https://www.youtube.com/watch?v=kEXCB0ljPnw <br>
+Preview 2: The Graph - Coming soon! <br>
+Preview 3: The Wrath of 9KX2 - Maybe...
+
+### Timestamps
+
+0:00 - Start of Video / Tau <br>
+2:41 - Tau 1st Crash <br>
+Will be finished later...
 
 ---
 ## 2019 Mega Comparison
