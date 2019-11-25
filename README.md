@@ -7,9 +7,8 @@ Home of the official 2019 Black MIDI mega comparison. Revisions may occur withou
 
 ### Previews
 
-Preview 1: The Title Card - https://www.youtube.com/watch?v=kEXCB0ljPnw <br>
-Preview 2: The Graph - https://www.youtube.com/watch?v=4tnf3DJyfbQ <br>
-Preview 3: The Wrath of 9KX2 - Maybe...
+Preview 1: The Title Card ➡ https://www.youtube.com/watch?v=kEXCB0ljPnw <br>
+Preview 2: The Graph ➡ https://www.youtube.com/watch?v=4tnf3DJyfbQ
 
 ### Timestamps
 
