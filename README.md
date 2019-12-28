@@ -1,9 +1,7 @@
 # Official 2019 Black MIDI Mega Comparison
-Home of the official 2019 Black MIDI mega comparison. Revisions may occur without prior notice.
+Home of the official 2019 Black MIDI mega comparison
 
 ***205*** submissions and counting! Thanks for your participation; the video is coming soon! :)
-
-***You are responsible for checking to make sure that your runs have been entered into the MIDIs you've participated in because with so many runs, I sometimes make mistakes (I'm still clumsy even though I'm a fox spirit.)***
 
 ### Previews
 
@@ -12,24 +10,22 @@ Preview 2: The Graph ➡ https://www.youtube.com/watch?v=4tnf3DJyfbQ
 
 ### Timestamps
 
-0:00 - Start of Video / Tau <br>
-2:41 - Tau 1st Crash <br>
-Will be finished later...
+Soon...
 
 ---
 ## 2019 Mega Comparison
 ***What***: 1 comparison video spanning 6 MIDIs: 9KX2, Tau, Tartarus, RST, RDR, TFL <br>
 ***Deadline***: 11/2 4:30 AM PDT <br>
-***Contact***: Submissions **AND** questions -> Kanna#1555 (preferred) OR newersupermariobros7@gmail.com <br>
-***Redos & Late Submissions***: No <br>
+***Contact***: Raphtalia_Public#1555 (preferred), newersupermariobros7@gmail.com <br>
+***Redos and Late Submissions***: No <br>
 ***Preferred Submission Method***: YouTube <br>
 
 ---
 ## Eligibility
 
-Everyone is eligible! No provisions.
+Everyone is eligible!
 
-<details><summary>Provisions, not required anymore.</summary>
+<details><summary>Provisions, not required anymore</summary>
 
 You **ONLY** need to meet Provision 1 **OR** 2.
 
@@ -59,13 +55,13 @@ Meet any **ONE** of the crash point cut times below for a particular MIDI to qua
 [Reptilian Dark Ritual](https://www.youtube.com/watch?v=IBb4NPR_scM): 4:24.6* <br>
 [TFL 19.4](https://www.youtube.com/watch?v=XmtiTkXcPJU): 3:13.7 OR 3:53.6 <br>
 
-*PFA's counter is inaccurate on this MIDI so you must use a timer while running it or calculate the time yourself.*
+*PFA's counter is inaccurate on this MIDI; you must use a timer while running it or calculate the time yourself.*
 
 #### Examples
 
-Example 1: Senko is a powerful fox demigoddess and has a Ryzen 9 3900X. Since it's on the list in Provision 1, any runs she does on her 3900X qualify.
+Example 1: Senko-san is a powerful fox demigoddess and has a Ryzen 9 3900X. Since it's on the list in Provision 1, any runs she does on her 3900X qualify automatically.
 
-Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using Tosan magic). This isn't on the Provision 1 list so her 2500K doesn't qualify under Provision 1. We look to Provision 2. On her Tau run, her 2500K gets 3:12.1 and 5:45.9. Since it meets **ONE** of the times, that 2500K run qualifies (you only need to meet 1 time). This only means that her 2500K Tau run qualifies however. We'd need to see the times on her 9KX2 run to see if she qualifies for 9KX2.
+Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using Tosan magic). This isn't on the Provision 1 list so her 2500K doesn't qualify under Provision 1. We look to Provision 2. On her Tau run, her 2500K gets 3:12.1 and 5:45.9. Since it meets **ONE** of the times, that 2500K run qualifies (you only need to meet one time). However, this only means that her 2500K is qualified for Tau. We'd need to see the times on her 9KX2 run to see if she qualifies for 9KX2.
 </details>
 
 ---
@@ -78,12 +74,12 @@ Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using 
 **Suggested**
 - 720p+ resolution, 60 FPS
 - 0.05 note speed (0.025 for Tartarus)
-- Enable PFA's FPS counter
+- PFA's FPS counter enabled
 - LoudMax
 - Black background
 
 **Clarifications**
-- Runs don't have to be new, they can be old runs you did
+- Runs don't have to be new; they can be old runs you did
 - Advanced OCing is allowed (single-core/CCX/CCD OC, disabled cores/threads) 
 
 ---
@@ -92,13 +88,13 @@ Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using 
 By entering a submission into this comparison, you agree to the following:
 - You affirm you have all rights to the videos you submit.
 - You allow MusiMasta to download your video for the purpose of usage in the comparison.
-- You allow the usage of your video, identification info, and benchmark results in the comparison video on YouTube (which will be unmonetized*), in the spreadsheet, graphs, and audio which will be publicly available in this Github repo, and in occasional previews and surveys hosted on Discord, Twitter, Facebook, and other related platforms.
-- You allow MusiMasta to include identification info (including but not limited to: name & computer specs) in the video and its description AND this Github repo.
+- You allow the usage of your video, identification info, and benchmark results in the comparison video on YouTube (which will be unmonetized*); in the spreadsheet, graphs, and audio which will be publicly available in this Github repo; and in occasional previews and surveys hosted on Discord, Twitter, Facebook, and other platforms.
+- You allow MusiMasta to include identification info (including but not limited to: name & computer specs) in the video and its description and this Github repo.
 
 You acknowledge that:
 - Runs may be rejected for any reason, but there will always be a follow-up reason.
-- The status of this comparison (whether it occurs or not & how many MIDIs it ends up covering) will depend on the number of people who participate.
+- The status of this comparison (whether it occurs or not amd how many MIDIs it ends up covering) will depend on the number of people who participate.
 
-Note: You may use any of the files in this fork in your own projects & videos FOR NONCOMMERICAL USES if you appropriately credit me in the description. Appropriate credit includes my name, "MusiMasta", and my [YouTube channel link](https://www.youtube.com/c/MusiMasta).
+Note: You may use any of the files in this fork in your own projects & videos for noncommercial uses if you appropriately credit me in the description. Appropriate credit includes my name, "MusiMasta", and my [YouTube channel link](https://www.youtube.com/c/MusiMasta).
 
 *The comparison video will be unmonetized on my end. However, some of the MIDIs are of songs that have legal 3rd-party claimants. I will edit the video description detailing what has been claimed if a claim arises.
