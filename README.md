@@ -88,7 +88,7 @@ Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using 
 By entering a submission into this comparison, you agree to the following:
 - You affirm you have all rights to the videos you submit.
 - You allow MusiMasta to download your video for the purpose of usage in the comparison.
-- You allow the usage of your video, identification info, and benchmark results in the comparison video on YouTube (which will be unmonetized*); in the spreadsheet, graphs, and audio which will be publicly available in this Github repo; and in occasional previews and surveys hosted on Discord, Twitter, Facebook, and other platforms.
+- You allow the usage of your video, identification info, and benchmark results in the comparison video on YouTube (which will be unmonetized*); in the spreadsheet, graphs, and audio which will be publicly available in this Github repo; and in occasional previews and surveys hosted on Discord, Facebook, Instagram, Twitter, and other platforms.
 - You allow MusiMasta to include identification info (including but not limited to: name & computer specs) in the video and its description and this Github repo.
 
 You acknowledge that:
