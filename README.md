@@ -16,7 +16,7 @@ Soon...
 ## 2019 Mega Comparison
 ***What***: 1 comparison video spanning 6 MIDIs: 9KX2, Tau, Tartarus, RST, RDR, TFL <br>
 ***Deadline***: 11/2 4:30 AM PDT <br>
-***Contact***: Raphtalia_Public#1555 (preferred), musimasta@gmail.com <br>
+***Contact***: MusiMasta_Public#1555 (preferred), musimasta@gmail.com <br>
 ***Redos and Late Submissions***: No <br>
 ***Preferred Submission Method***: YouTube <br>
 
