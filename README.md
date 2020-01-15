@@ -88,13 +88,13 @@ Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.5 GHz using 
 By entering a submission into this comparison, you agree to the following:
 - You affirm you have all rights to the videos you submit.
 - You allow MusiMasta to download your video for the purpose of usage in the comparison.
-- You allow the usage of your video, identification info, and benchmark results in the comparison video on YouTube (which will be unmonetized*); in the spreadsheet, graphs, and audio which will be publicly available in this Github repo; and in occasional previews and surveys hosted on Discord, Facebook, Instagram, Twitter, and other platforms.
-- You allow MusiMasta to include identification info (including but not limited to: name & computer specs) in the video and its description and this Github repo.
+- You allow the usage of your video, identification info, and benchmark results in the comparison video on YouTube (which will be unmonetized*); in the spreadsheet, graphs, and audio which will be publicly available in this Github repository; and in occasional previews and surveys hosted on Discord, Facebook, Instagram, Twitter, and other platforms.
+- You allow MusiMasta to include identification info (including but not limited to: name and computer specs) in the video and its description and this Github repository.
 
 You acknowledge that:
-- Runs may be rejected for any reason, but there will always be a follow-up reason.
+- Runs may be rejected for any reason but there will always be a follow-up response detailing why.
 - The status of this comparison (whether it occurs or not amd how many MIDIs it ends up covering) will depend on the number of people who participate.
 
-Note: You may use any of the files in this fork in your own projects & videos for noncommercial uses if you appropriately credit me in the description. Appropriate credit includes my name, "MusiMasta", and my [YouTube channel link](https://www.youtube.com/c/MusiMasta).
+Note: You may use any of the files in this fork in your own projects and videos for noncommercial uses if you appropriately credit me in the description. Appropriate credit includes my name, "MusiMasta", and my [YouTube channel link](https://www.youtube.com/c/MusiMasta).
 
 *The comparison video will be unmonetized on my end. However, some of the MIDIs are of songs that have legal 3rd-party claimants. I will edit the video description detailing what has been claimed if a claim arises.
