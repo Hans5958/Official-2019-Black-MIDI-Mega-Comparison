@@ -8,10 +8,6 @@ Home of the official 2019 Black MIDI mega comparison
 Preview 1: The Title Card ➡ https://www.youtube.com/watch?v=kEXCB0ljPnw <br>
 Preview 2: The Graph ➡ https://www.youtube.com/watch?v=4tnf3DJyfbQ
 
-### Timestamps
-
-Soon...
-
 ---
 ## 2019 Mega Comparison
 ***What***: 1 comparison video spanning 6 MIDIs: 9KX2, Tau, Tartarus, RST, RDR, TFL <br>
