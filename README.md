@@ -10,7 +10,7 @@ Preview 2: The Graph ➡️ https://www.youtube.com/watch?v=4tnf3DJyfbQ
 
 ---
 ## 2019 Mega Comparison
-***What***: 1 comparison video spanning 6 MIDIs: [Tau](https://www.youtube.com/watch?v=b0gyQMJHQ78), [RST 14.6](https://www.youtube.com/watch?v=JAtk3wOlB2Y), [9KX2](https://www.youtube.com/watch?v=E7e36Yc3e3w), [TFL 19.4](https://www.youtube.com/watch?v=XmtiTkXcPJU), [Tartarus](https://www.youtube.com/watch?v=u3QCN1qqfIo), [RDR](https://www.youtube.com/watch?v=IBb4NPR_scM) <br>
+***What***: 1 comparison video spanning 6 MIDIs: [Tau](https://www.youtube.com/watch?v=b0gyQMJHQ78), [RST 14.6](https://www.youtube.com/watch?v=JAtk3wOlB2Y), [9KX2](https://www.youtube.com/watch?v=E7e36Yc3e3w), [TFL 19.4](https://www.youtube.com/watch?v=XmtiTkXcPJU), [Tartarus](https://www.youtube.com/watch?v=u3QCN1qqfIo), and [RDR](https://www.youtube.com/watch?v=IBb4NPR_scM) <br>
 ***Deadline***: 11/02/2019 4:30 AM PDT <br>
 ***Contact***: MusiMasta_Public#1555 on Discord (preferred), musimasta@gmail.com <br>
 ***Redos and Late Submissions***: No <br>
