@@ -35,5 +35,5 @@
 
 ## Graph
 
-![](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/7%20-%20Final%20Composite.jpg)
-[Click here for the full-sized version.](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/7%20-%20Final%20Composite.jpg)
+![](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/7%20-%20Final%20Composite.jpg)
+[Click here for the full-sized version.](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/7%20-%20Final%20Composite.jpg)

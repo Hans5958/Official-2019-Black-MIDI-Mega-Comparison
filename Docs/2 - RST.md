@@ -163,15 +163,15 @@
 
 ### Crash 1
 
-![](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/2%20-%20RST_1.jpg)
-[Click here for the full-sized version.](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/2%20-%20RST_1.jpg)
+![](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/2%20-%20RST_1.jpg)
+[Click here for the full-sized version.](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/2%20-%20RST_1.jpg)
 
 ### Final Crash
 
-![](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/2%20-%20RST_2.jpg)
-[Click here for the full-sized version.](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/2%20-%20RST_2.jpg)
+![](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/2%20-%20RST_2.jpg)
+[Click here for the full-sized version.](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/2%20-%20RST_2.jpg)
 
 ### Composite
 
-![](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/2%20-%20RST_3.jpg)
-[Click here for the full-sized version.](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/2%20-%20RST_3.jpg)
+![](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/2%20-%20RST_3.jpg)
+[Click here for the full-sized version.](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/2%20-%20RST_3.jpg)

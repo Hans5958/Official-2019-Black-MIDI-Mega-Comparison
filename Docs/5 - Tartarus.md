@@ -75,5 +75,5 @@
 
 ### Final Crash
 
-![](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/5%20-%20Tartarus_1.jpg)
-[Click here for the full-sized version.](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/5%20-%20Tartarus_1.jpg)
+![](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/5%20-%20Tartarus_1.jpg)
+[Click here for the full-sized version.](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/5%20-%20Tartarus_1.jpg)

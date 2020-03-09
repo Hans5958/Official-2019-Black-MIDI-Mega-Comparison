@@ -64,5 +64,5 @@
 
 ### Final Crash
 
-![](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/6%20-%20RDR_1.jpg)
-[Click here for the full-sized version.](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/6%20-%20RDR_1.jpg)
+![](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/min/6%20-%20RDR_1.jpg)
+[Click here for the full-sized version.](https://github.com/Hans5958/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Graphs/6%20-%20RDR_1.jpg)
