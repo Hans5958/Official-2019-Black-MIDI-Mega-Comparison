@@ -1,12 +1,98 @@
 # Official 2019 Black MIDI Mega Comparison
 Home of the official 2019 Black MIDI mega comparison!
 
-***205*** submissions and counting! Thanks for your participation; the video is coming soon! :)
+***200*** submissions! Thanks for your participation! :)
+
+<div align="center">
+	<a href="https://www.youtube.com/watch?v=ghGur0s6eXo"><img src="https://i.ytimg.com/vi/ghGur0s6eXo/maxresdefault.jpg" width="512" /></a><br />
+	<i>click the video above to watch it!</i>
+</div>
 
 ### Previews
 
-Preview 1: The Title Card ➡️ https://www.youtube.com/watch?v=kEXCB0ljPnw <br>
-Preview 2: The Graph ➡️ https://www.youtube.com/watch?v=4tnf3DJyfbQ
+<div align="center">
+	<table>
+		<tr>
+			<td>
+				<div align="center">
+					<a href="https://www.youtube.com/watch?v=kEXCB0ljPnw">
+						<img src="https://i.ytimg.com/vi/kEXCB0ljPnw/maxresdefault.jpg" width="256" /><br />
+						Preview 1: The Title Card
+					</a>
+				</div>
+			</td>
+			<td>
+				<div align="center">
+					<a href="https://www.youtube.com/watch?v=4tnf3DJyfbQ">
+						<img src="https://i.ytimg.com/vi/4tnf3DJyfbQ/maxresdefault.jpg" width="256" /><br />
+						Preview 2: The Graph
+					</a>
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+
+### Quick Links
+
+#### Tau
+
+- Video Timecode
+  - [0:00](https://www.youtube.com/watch?v=ghGur0s6eXo&t=0m00s) - Start
+  - [3:25](https://www.youtube.com/watch?v=ghGur0s6eXo&t=3m25s) - Crash 1
+  - [5:40](https://www.youtube.com/watch?v=ghGur0s6eXo&t=5m40s) - Final Crash
+  - [7:07](https://www.youtube.com/watch?v=ghGur0s6eXo&t=7m07s) - Graph
+- [Documentation (graphs and tables in pretty)](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Docs/1%20-%20Tau.md)
+
+#### Septette for the Dead Princess
+
+- Video Timecode
+  - [7:25](https://www.youtube.com/watch?v=ghGur0s6eXo&t=7m25s) - Start
+  - [10:35](https://www.youtube.com/watch?v=ghGur0s6eXo&t=10m35s) - Crash 1
+  - [12:04](https://www.youtube.com/watch?v=ghGur0s6eXo&t=12m04s) - Final Crash
+  - [12:40](https://www.youtube.com/watch?v=ghGur0s6eXo&t=12m40s) - Graph
+- [Documentation (graphs and tables in pretty)](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Docs/1%20-%20Tau.md)
+
+#### 9KX2
+
+- Video Timecode
+  - [12:58](https://www.youtube.com/watch?v=ghGur0s6eXo&t=12m58s) - Start
+  - [15:27](https://www.youtube.com/watch?v=ghGur0s6eXo&t=15m27s) - Crash 1
+  - [16:54](https://www.youtube.com/watch?v=ghGur0s6eXo&t=16m54s) - Crash 2
+  - [18:41](https://www.youtube.com/watch?v=ghGur0s6eXo&t=18m41s) - Final Crash
+  - [20:25](https://www.youtube.com/watch?v=ghGur0s6eXo&t=20m25s) - Graph
+- [Documentation (graphs and tables in pretty)](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Docs/2%20-%20RST.md)
+
+#### Two Faced Lovers
+
+- Video Timecode
+  - [20:50](https://www.youtube.com/watch?v=ghGur0s6eXo&t=20m50s) - Start
+  - [24:11](https://www.youtube.com/watch?v=ghGur0s6eXo&t=24m11s) - X Crash
+  - [24:52](https://www.youtube.com/watch?v=ghGur0s6eXo&t=24m52s) - Final Crash
+  - [25:37](https://www.youtube.com/watch?v=ghGur0s6eXo&t=25m37s) - Graph
+- [Documentation (graphs and tables in pretty)](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Docs/3%20-%209KX2.md)
+
+#### Tartarus
+
+- Video Timecode
+  - [25:55](https://www.youtube.com/watch?v=ghGur0s6eXo&t=25m55s) - Start
+  - [28:44](https://www.youtube.com/watch?v=ghGur0s6eXo&t=28m44s) - Graph
+- [Documentation (graphs and tables in pretty)](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Docs/5%20-%20Tartarus.md)
+
+#### Reptilian Dark Ritual
+
+- Video Timecode
+  - [30:19](https://www.youtube.com/watch?v=ghGur0s6eXo&t=30m19s) - Start
+  - [35:17](https://www.youtube.com/watch?v=ghGur0s6eXo&t=35m17s) - Graph
+- [Documentation (graphs and tables in pretty)](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Docs/6%20-%20RDR.md)
+
+#### Composite
+
+- Video Timecode
+  - [36:21](https://www.youtube.com/watch?v=ghGur0s6eXo&t=36m21s) - Composite Graph
+- [Documentation (graphs and tables in pretty)](https://github.com/musimasta/Official-2019-Black-MIDI-Mega-Comparison/blob/master/Docs/7%20-%20Final%20Composite.md)
+
+<details><summary>Past details for submitting runs.</summary>
 
 ---
 ## 2019 Mega Comparison
@@ -79,6 +165,9 @@ Example 2: Susu is a weak fox spirit and has an i5-2500K (OC'd to 5.7 GHz using 
 - Advanced OCing allowed (single-core/CCX/CCD OC) 
 
 ---
+
+</details>
+
 ### Terms
 
 By entering a submission into this comparison, you agree to all of the following:
